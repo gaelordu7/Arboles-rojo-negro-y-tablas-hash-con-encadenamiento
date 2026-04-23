@@ -8,7 +8,4 @@ Este repositorio contiene la implementación de dos estructuras de datos fundame
 * `experimento.py`: Script de pruebas y generación de gráficas de rendimiento.
 * `reporte.pdf`: Informe detallado de la práctica.
 
-## Instrucciones de Ejecución
-1. Asegúrese de tener instalado Python 3.8+ y la librería `matplotlib`.
-   ```bash
-   pip install matplotlib
+
